@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">AOCR</string>
+    <string name="about_content">This application provides optical character recognition (OCR) capability on Android. It can be used to -</string>
+    <string name="func1">-extract text from images taken through the device\'s camera</string>
+    <string name="func2">-save the extracted text in a text file</string>
+    <string name="func3">-search the extracted text on the internet</string>
+    <string name="func4">-translate the extracted text from English to another language</string>
+    <string name="devs">Devs - Varun Varshney and Ankit Sharma</string>
+    <string name="doc">Documentation - Shobhit Jain</string>
+    <string name="misc">Miscellaneous - romil</string>
+
+</resources>

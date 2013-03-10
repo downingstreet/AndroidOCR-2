@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="src" path="/tess-two"/>
+	<classpathentry exported="true" kind="lib" path="D:/Applications/workspace/tess-two/bin/tess-two.jar" sourcepath="/tess-two/src"/>
+	<classpathentry exported="true" kind="lib" path="D:/Applications/workspace/google-api-translate-java-0.97.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Applications/workspace/android-translate-api-1.1.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

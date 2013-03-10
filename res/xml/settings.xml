@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    
+
+   <ListPreference     android:title="Search on"
+                      android:summary="Select the site for searching"
+                      android:key="searchType"
+                      android:defaultValue="1"
+                      android:entries="@array/listArray"
+                      android:entryValues="@array/listValues" />
+   
+   <ListPreference     android:title="Translate to"
+                      android:summary="Select the Language to translate"
+                      android:key="translateType"
+                      android:defaultValue="1"
+                      android:entries="@array/translateArray"
+                      android:entryValues="@array/translateValues" />
+       
+</PreferenceScreen>
